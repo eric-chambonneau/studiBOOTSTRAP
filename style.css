@@ -1,8 +1,8 @@
-div {
+* {
     min-height: 50px;
 }
 
-div.row div {
+.row article {
     background-color: aquamarine;
     border: 1px solid black;
 }
